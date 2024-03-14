@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Reshma/MLOPS_v2/Chest_CT_Scan_Data/Chest-Disease-Classification-From-Chest-CT-Scan/mlruns/0/6132b08e23a9491cb9d0ebd6df5c9792/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6132b08e23a9491cb9d0ebd6df5c9792
+run_name: industrious-ox-453
+run_uuid: 6132b08e23a9491cb9d0ebd6df5c9792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710408604687
+status: 1
+tags: []
+user_id: Hp
