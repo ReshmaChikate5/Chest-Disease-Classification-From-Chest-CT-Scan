@@ -1,5 +1,11 @@
 # Chest-Disease-Classification-From-Chest-CT-Scan
 
+# To activate python environment using bash
+
+```bash
+source chest/Scripts/activate
+```
+
 ## Workflows
 
 1. Update config.yaml
