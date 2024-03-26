@@ -55,7 +55,7 @@ python app.py
 ### Mlflow dagshub connection uri
 
 ```bash
-MLFLOW_TRACKING_URI=https://dagshub.com/ReshmaChikate5/MLflow-Experiment-Demo.mlflow \
+MLFLOW_TRACKING_URI=https://dagshub.com/ReshmaChikate5/Chest-Disease-Classification-From-Chest-CT-Scan.mlflow \
 MLFLOW_TRACKING_USERNAME=ReshmaChikate5 \
 MLFLOW_TRACKING_PASSWORD=96c75beb6b32b3a1e411de33eabe748e722be036 \
 python script.py
@@ -66,10 +66,12 @@ python script.py
 ### RUN from bash terminal
 
 ```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/ReshmaChikate5/MLflow-Experiment-Demo.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/ReshmaChikate5/Chest-Disease-Classification-From-Chest-CT-Scan.mlflow
 
 export MLFLOW_TRACKING_USERNAME=ReshmaChikate5 
 
 export MLFLOW_TRACKING_PASSWORD=96c75beb6b32b3a1e411de33eabe748e722be036
 
 ```
+
+### Execute above 3 commands on git bash
