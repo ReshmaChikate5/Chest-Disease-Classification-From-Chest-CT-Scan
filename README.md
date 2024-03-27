@@ -75,3 +75,10 @@ export MLFLOW_TRACKING_PASSWORD=96c75beb6b32b3a1e411de33eabe748e722be036
 ```
 
 ### Execute above 3 commands on git bash
+
+### DVC cmd
+
+1. dvc init
+2. dvc repro
+3. dvc dag
+
